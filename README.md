@@ -4,7 +4,7 @@
 ### Developer: David Purtill.
 ***
 ### Running Jupyter notebooks.
-1. Clone this repo https://github.com/Davidpurtill1101011/Emerging_Technologies_4th_Year/tree/master/Assessment
+1. Clone this repo https://github.com/Davidpurtill1101011/Emerging_Technologies_4th_Year
 2. If you do not have Anaconda installed for Windows/Mac use this link https://www.anaconda.com/products/individual and you can install it. 
 3. Command to install Jupyter: **python -m pip install --user jupyter** this should then be able to show you my Jupyter Notebooks.
 4. Next you need to change directory to the Assessment folder that is where all the work i have done for the assessment this command should help you: **cd assessment ** . 
